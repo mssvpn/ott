@@ -1,12 +1,4 @@
 #EXTM3U
 #EXTINF:-1,
-reload.ts
-#EXTINF:-1,
-reload2.ts
-#EXTINF:-1,
-reload3.ts
-#EXTINF:-1,
-reload4.ts
-#EXTINF:-1,
-reload5.ts
+https://raw.githubusercontent.com/mssvpn/ott/main/reload.ts
 
