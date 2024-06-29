@@ -1,6 +1,4 @@
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:12
-#EXT-X-MEDIA-SEQUENCE:0
+#EXTM3U
 #EXTINF:-1,
 reload.ts
 #EXTINF:-1,
@@ -11,4 +9,4 @@ reload3.ts
 reload4.ts
 #EXTINF:-1,
 reload5.ts
-#EXT-X-ENDLIST
+
